@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=8RThQD0-7fA&list=PLlRapu2ErjJ-2cWerNuZEv5kkCFwK0won - Learn AnuglarJS
+https://www.youtube.com/watch?v=s3qZF4jhgDo&list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt - AngularJS Tutorials
+https://www.youtube.com/watch?v=zKkUN-mJtPQ&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl - AngularJS Tutorials for beginners
